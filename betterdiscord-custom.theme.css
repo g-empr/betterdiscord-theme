@@ -109,10 +109,11 @@ div.chat.flex-vertical.flex-spacer>div.content.flex-spacer.flex-horizontal>div.f
 }
 
 .mention {
-    background: red !important;
-    color: #fff !important;
-    border-radius: 5px !important;
-    padding: 2px 5px;
+    color: #f0f0f0 !important;
+}
+
+.theme-dark .message-group .mentioned .message-text {
+    background: rgba(250, 16, 6, .5) !important;
 }
 
 .messages .embed.embed-inline {
