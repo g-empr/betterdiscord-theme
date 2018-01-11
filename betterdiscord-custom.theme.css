@@ -108,6 +108,13 @@ div.chat.flex-vertical.flex-spacer>div.content.flex-spacer.flex-horizontal>div.f
     color: #fff !important;
 }
 
+.mention {
+    background: red !important;
+    color: #fff !important;
+    border-radius: 5px !important;
+    padding: 2px 5px;
+}
+
 .messages .embed.embed-inline {
     background-color: transparent !important;
     border: none !important;
