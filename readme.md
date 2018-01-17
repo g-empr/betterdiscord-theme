@@ -1,5 +1,5 @@
 # BetterDiscord用テーマ（CSS）
-![さんぷる](https://raw.githubusercontent.com/g-empr/betterdiscord-theme/master/sample.jpg)
+![さんぷる](sample.jpg)
 ## 最終更新
 - 2017/1/11 アップデート
 ## メモ
