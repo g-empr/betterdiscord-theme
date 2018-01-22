@@ -135,3 +135,11 @@ div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > d
 .theme-dark .layer-kosS71, .theme-dark .layers-20RVFW {
     background: transparent;
 }
+
+.mention {
+    color: #f0f0f0 !important;
+}
+
+.theme-dark .message-group .mentioned .message-text {
+    background: rgba(250, 16, 6, .5) !important;
+}
