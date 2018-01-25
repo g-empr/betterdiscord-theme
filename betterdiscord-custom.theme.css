@@ -143,3 +143,6 @@ div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > d
 .theme-dark .message-group .mentioned .message-text {
     background: rgba(250, 16, 6, .5) !important;
 }
+
+/*2017/01/25 add*/
+.typing-3eiiL_ { background-color:red !important; }
