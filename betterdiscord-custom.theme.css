@@ -64,7 +64,7 @@ form {
 }
  
  
-div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical {background-color: rgba(60,60,60,0.8) !important}
+div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical {background-color: rgba(60,60,60,0.4) !important}
 
 .header-toolbar:after {
     content: "";
@@ -150,4 +150,17 @@ div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > d
 /*2018/04/06*/
 .theme-dark .members-1bid1J {
     background-color: rgba(0,0,0,0.9) !important;
+}
+
+/*2018/04/30 add*/
+.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.container-PNkimc,
+.layers-3iHuyZ.flex-vertical.flex-spacer,
+.container-2lgZY8,
+.layer-3QrUeG {
+    background-color: transparent !important;
+}
+.theme-dark .title-3qD0b-,
+.channels-Ie2l6A,
+.membersWrap-2h-GB4 > div > div {
+    background-color: rgba(0,0,0,0.8) !important;
 }
