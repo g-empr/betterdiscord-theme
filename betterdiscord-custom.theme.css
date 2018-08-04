@@ -164,3 +164,17 @@ div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > d
 .membersWrap-2h-GB4 > div > div {
     background-color: rgba(0,0,0,0.8) !important;
 }
+
+/*2018/08/04 add*/
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
+    background-color: transparent !important;
+}
+.theme-dark .messagesWrapper-3lZDfY {
+    background-color: rgba(0,0,0,0.8) !important;
+}
+#app-mount > div.app-19_DXt.platform-win.da-app.da-platformWin > div > div.layers-3iHuyZ.flex-vertical.flex-spacer.da-layers.da-flexVertical.da-flexSpacer > div > div > div.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz.da-flex.da-vertical.da-directionColumn.da-justifyStart.da-alignStretch.da-noWrap.da-base > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.da-flex.da-horizontal.da-directionRow.da-justifyStart.da-alignStretch.da-noWrap.da-spacer > div.chat-3bRxxu.da-chat > div.content-yTz4x3.da-content > div.flex-spacer.flex-vertical.da-flexSpacer.da-flexVertical > form {
+    background-color: rgba(0,0,0,0.8) !important;
+}
+.asianCompactTimeStamp-2Y7Fg8 {
+    color: orange !important;
+}
